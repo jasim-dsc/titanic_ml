@@ -2,7 +2,7 @@
 # 🚢 Titanic Data Handling & Visualization Project
 
 This project is part of **Month 2: Data Handling & Visualization** in my coding roadmap.  
-It uses the famous [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data) to practice **data cleaning** and **visualization** with Python.
+It uses the famous [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset) to practice **data cleaning** and **visualization** with Python.
 
 ---
 
