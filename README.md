@@ -82,4 +82,4 @@ Distribution of passengers' ages.
 
 ---
 
-👨‍💻 *Created by Jasim Ademide Sanni as part of my Data Science learning journey.* 🚀
+👨‍💻 *Created by Jasim Sanni as part of my Data Science learning journey.* 🚀
